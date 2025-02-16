@@ -14,8 +14,6 @@ from config import BANNED_USERS
 from cookies import fetch_cookies
 
 
-async 
-
 async def init():
     if (
         not config.STRING1
